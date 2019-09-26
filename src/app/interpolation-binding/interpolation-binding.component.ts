@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./interpolation-binding.component.css']
 })
 export class InterpolationBindingComponent implements OnInit {
-  numero: number = 10;
+  numero: number = 52;
 
   quadrado() : number {
     return this.numero * this.numero;
