@@ -9,6 +9,7 @@ export class TwoWayBindingComponent implements OnInit {
 
   nome: string = "Horácio";
 
+  
   constructor() { }
 
   ngOnInit() {
